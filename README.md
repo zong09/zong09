@@ -4,10 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zong09&layout=compact)](https://github.com/zong09/github-readme-stats)
 <!---
 zong09/zong09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-
-![](https://gitwar.herokuapp.com/badge?username=zong09&color=dc143c)
