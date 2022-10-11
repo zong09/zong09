@@ -33,5 +33,5 @@
 <h3 align="center">STATUS</h3>
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=zong09&theme=react&show_icons=true&include_all_commits=true" />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zong09&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zong09&langs_count=8" />
 </p>
